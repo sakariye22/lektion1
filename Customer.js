@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
       paddingHorizontal: 20,
       paddingVertical: 10,
       backgroundColor: '#CE2CDB',
+      color:'red'
     },
   });
 
